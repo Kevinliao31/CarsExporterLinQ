@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "model": "Serie 1",
+    "year": 2020,
+    "price": 30000,
+    "supplierId": 1
+  },
+  {
+    "id": 2,
+    "model": "Serie 3",
+    "year": 2019,
+    "price": 35000,
+    "supplierId": 1
+  },
+  {
+    "id": 3,
+    "model": "Classe A",
+    "year": 2021,
+    "price": 40000,
+    "supplierId": 2
+  },
+  {
+    "id": 4,
+    "model": "Classe C",
+    "year": 2022,
+    "price": 45000,
+    "supplierId": 2
+  },
+  {
+    "id": 5,
+    "model": "Clio",
+    "year": 2020,
+    "price": 18000,
+    "supplierId": 3
+  },
+  {
+    "id": 6,
+    "model": "Megane",
+    "year": 2019,
+    "price": 22000,
+    "supplierId": 3
+  },
+  {
+    "id": 7,
+    "model": "C1",
+    "year": 2021,
+    "price": 15000,
+    "supplierId": 4
+  },
+  {
+    "id": 8,
+    "model": "C2",
+    "year": 2022,
+    "price": 17000,
+    "supplierId": 4
+  },
+  {
+    "id": 9,
+    "model": "Golf",
+    "year": 2020,
+    "price": 25000,
+    "supplierId": 5
+  },
+  {
+    "id": 10,
+    "model": "Passat",
+    "year": 2019,
+    "price": 30000,
+    "supplierId": 5
+  },
+  {
+    "id": 11,
+    "model": "Serie 5",
+    "year": 2021,
+    "price": 42000,
+    "supplierId": 1
+  },
+  {
+    "id": 12,
+    "model": "X1",
+    "year": 2022,
+    "price": 38000,
+    "supplierId": 1
+  },
+  {
+    "id": 13,
+    "model": "Classe E",
+    "year": 2020,
+    "price": 50000,
+    "supplierId": 2
+  },
+  {
+    "id": 14,
+    "model": "GLA",
+    "year": 2019,
+    "price": 48000,
+    "supplierId": 2
+  },
+  {
+    "id": 15,
+    "model": "Twingo",
+    "year": 2021,
+    "price": 16000,
+    "supplierId": 3
+  },
+  {
+    "id": 16,
+    "model": "Scenic",
+    "year": 2022,
+    "price": 24000,
+    "supplierId": 3
+  },
+  {
+    "id": 17,
+    "model": "C3",
+    "year": 2020,
+    "price": 19000,
+    "supplierId": 4
+  },
+  {
+    "id": 18,
+    "model": "C4",
+    "year": 2019,
+    "price": 21000,
+    "supplierId": 4
+  },
+  {
+    "id": 19,
+    "model": "Tiguan",
+    "year": 2021,
+    "price": 32000,
+    "supplierId": 5
+  },
+  {
+    "id": 20,
+    "model": "Touareg",
+    "year": 2022,
+    "price": 40000,
+    "supplierId": 5
+  }
+]
