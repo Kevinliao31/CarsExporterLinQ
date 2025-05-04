@@ -4,11 +4,12 @@
     {
         public static void Main(string[] args)
         {
-            //Controller.GetAllSuppliers();
-            //Controller.GetAllCars();
+            // Enlever les commentaires pour tester les différentes méthodes 
+            //Logics.GetAllSuppliers();
+            //Logics.GetAllCars();
             Logics.DisplayCarsBySearch();
-            //Controller.SortCarsBySupplier();
-            //Controller.GroupCarsBySupplier();
+            //Logics.SortCarsBySupplier();
+            //Logics.GroupCarsBySupplier();
         }
     }
 }
